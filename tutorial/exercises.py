@@ -72,3 +72,49 @@ Challenge Exercises
 
 For solutions, try to solve them yourself first! Check the official Python documentation for help:
 https://docs.python.org/3/tutorial/"""
+
+"""
+==========================================
+Letter Counter Exercise
+==========================================
+
+Write a program that counts how many times each letter appears in a string.
+
+Example:
+    Input: "hello world"
+    Output: {'h': 1, 'e': 1, 'l': 3, 'o': 2, ' ': 1, 'w': 1, 'r': 1, 'd': 1}
+
+Try to implement this using a dictionary and a loop!
+"""
+
+"""
+==========================================
+Simple Calculator Exercise
+==========================================
+
+Create a simple calculator that can add, subtract, multiply, and divide two numbers.
+
+Requirements:
+- Ask the user to enter two numbers.
+- Ask the user to choose an operation (+, -, *, /).
+- Perform the calculation and print the result.
+- Handle division by zero.
+
+Try to use functions for each operation!
+"""
+
+"""
+==========================================
+Pong Game Challenge
+==========================================
+
+Make a simple Pong game using pygame.
+
+Requirements:
+- Create a game window.
+- Add two paddles and a ball.
+- Allow paddles to move up and down.
+- Make the ball bounce off paddles and walls.
+- Keep score for both players.
+
+See ponggame.py for a reference implementation."""
