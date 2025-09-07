@@ -59,7 +59,7 @@ Here are some useful tips and tricks to help you write better Python code:
 ------------------------------------------
 10. Zen of Python
 ------------------------------------------
-    import this
+    import this [A good phillosphy To read]
 
 For more tips, see the official Python documentation:
 https://docs.python.org/3/tutorial/datastructures.html"""
