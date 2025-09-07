@@ -142,3 +142,9 @@ Example:
 See below for code examples.
 """
 # ...existing code...
+
+# I don't know whether this shall change in the later future
+
+# Looks Good code?
+
+# Check out the ZEN OF PYTHON, cuz thats OP

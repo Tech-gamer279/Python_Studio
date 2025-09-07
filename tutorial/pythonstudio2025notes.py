@@ -70,3 +70,6 @@ It is recommended to read through the entire file to get a comprehensive underst
 print('Python Studio 2025 Notes loaded successfully!')
 print('For more information, visit the official Python documentation at https://docs.python.org/3/tutorial/')
 
+# Version 2026 Next year; We are starting with gists on the new 2026 documentation
+
+# Be ready
