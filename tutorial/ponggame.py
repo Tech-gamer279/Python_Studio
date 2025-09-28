@@ -1,4 +1,14 @@
-import pygame
+  if ball.left <= 0:
+        right_score += 1
+        reset_ball()
+    if ball.right >= WIDTH:
+        left_score += 1
+        reset_ball()
+
+    draw()
+    clock.tick(60)
+    
+pygame.quit()import pygame
 import sys
 
 # Initialize Pygame
@@ -88,14 +98,4 @@ while running:
         ball_speed_x *= -1
 
     # Ball out of bounds
-    if ball.left <= 0:
-        right_score += 1
-        reset_ball()
-    if ball.right >= WIDTH:
-        left_score += 1
-        reset_ball()
-
-    draw()
-    clock.tick(60)
-
-pygame.quit()
+  

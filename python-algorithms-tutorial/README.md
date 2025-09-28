@@ -46,3 +46,4 @@ from src.algorithms import fibonacci, factorial, gcd, is_prime, sieve_of_eratost
 ```
 
 Feel free to explore and modify the algorithms as needed!
+
